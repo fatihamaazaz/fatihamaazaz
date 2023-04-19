@@ -28,11 +28,15 @@ Feel free to reach me on any of these:
 I am well experienced working with these tools:
 
 <p align="center">  
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>&emsp;
-<a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&emsp;
-<a href="https://www.tableau.com/" target="_blank"> <img src="https://github.com/NazomU/NazomU/blob/main/tableau.png" alt="tableau" width="40" height="40"/></a>&emsp;
-<a href="https://powerbi.microsoft.com/en-ca/downloads/" target="_blank"> <img src=https://github.com/NazomU/NazomU/blob/main/PowerBI-Logo.png )
+<a href="https://www.python.org" target="_blank"> <img align = "center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>&emsp;
+<a href="https://powerbi.microsoft.com/en-ca/downloads/" target="_blank"> <img align = "center" src=https://github.com/NazomU/NazomU/blob/main/PowerBI-Logo.png )
 " alt="powerbi" width="40" height="40"/></a>&emsp;
+<a href="#" target="_blank"> <img align = "center" src="https://github.com/fatihamaazaz/fatihamaazaz/blob/main/assets/excel_logo.png" alt="Excel" width="40" height="40"/></a>&emsp;
+<a href="#" target="_blank"> <img align = "center" src="https://github.com/fatihamaazaz/fatihamaazaz/blob/main/assets/sql_server_logo.png" alt="Microsoft sql Server" width="40" height="40"/></a>&emsp;
+<a href="#" target="_blank"> <img align = "center" src="https://github.com/fatihamaazaz/fatihamaazaz/blob/main/assets/Visual-Studio-Logo.png" alt="Visual Studio" width="40" height="40"/></a>&emsp;
+<a href="#" target="_blank"> <img align = "center" src="https://github.com/fatihamaazaz/fatihamaazaz/blob/main/assets/sql_logo.png" alt="SQL" width="40" height="40"/></a>&emsp;
+<a href="#" target="_blank"> <img align = "center" src="https://github.com/fatihamaazaz/fatihamaazaz/blob/main/assets/hadoop_logo.png" alt="Hadoop" width="53" height="42"/></a>&emsp;
+<a href="#" target="_blank"> <img align = "center" src="https://github.com/fatihamaazaz/fatihamaazaz/blob/main/assets/Elasticsearch_logo.png" alt="Elasticsearch" width="53" height="42"/></a>&emsp;
 </p>
 
 <br>
