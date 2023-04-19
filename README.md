@@ -2,24 +2,23 @@
 <h3 align="center">Business intelligence Engineer Intern & BI and Analytics Student</h3>
 
 
-- 🎓 I am a third-year engineering student specializing in Business Intelligence and Analytics at <img src="https://media2.giphy.com/media/H6ilizZ1OiCYeFajpA/giphy.gif" width="40px" height="50px"> and I will be graduating this year! :confetti_ball:
+- 🎓 I am a third-year engineering student specializing in Business Intelligence and Analytics at <img src="https://github.com/fatihamaazaz/fatihamaazaz/blob/main/assets/ensias.png" width="45px" height="35px"> and I will be graduating this year ! :confetti_ball:
 
-- :office: I am currently a BI Engineer intern at <img src="https://media2.giphy.com/media/H6ilizZ1OiCYeFajpA/giphy.gif" width="40px" height="50px"> as part of my degree program
+- :office: I am currently a BI Engineer intern at <img src="https://github.com/fatihamaazaz/fatihamaazaz/blob/main/assets/procheck_logo.png" width="55px" height="20px"> as part of my degree program
 
-- 📫 How to reach me **aryanmahabhoi@gmail.com**
+- :woman_teacher: I am currently learning AWS, Talend and Databricks and reinforcing my knowledge about BI and Data analytics
 
-- 💻🖥 Learning New Things Like **Designing, Developing and Data analysts**
-
-- ⚡ Fun fact **I'm Astrophile 🚀🛰🛸👨‍🚀🪐🌌🌏**
+- ⚡ Fun fact : Curiosity is in my nature ! :pig_nose:
 
 
-<h2 align="center">Connect with me:</h2>
+<h2 align="center">Contact me:</h2>
 
 Feel free to reach me on any of these:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/fatiha-maazaz/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maazshakeel" height="40" width="40"></a>&emsp;
-<a href="mailto:fatihamaazaz@gmail.com" target="_blank"><img align = "center" src="https://github.com/NazomU/NazomU/blob/main/gmail.png" alt="Gmail Logo" height = "60" width="50"></a>&emsp;
+<a href="https://www.linkedin.com/in/fatiha-maazaz/" target="blank"><img align="center" src="https://github.com/fatihamaazaz/fatihamaazaz/blob/main/assets/linkedin_logo_png.png" alt="linkedin logo" height="40" width="40"></a>&emsp;
+<a href="mailto:fatihamaazaz@gmail.com" target="_blank"><img align = "center" src="https://github.com/fatihamaazaz/fatihamaazaz/blob/main/assets/gmail_logo.png" alt="gmail logo" height = "40" width="58"> </a>&emsp;
+<a href="mailto:fatiha_maazaz@um5.ac.ma" target="_blank"><img align = "center" src="https://github.com/fatihamaazaz/fatihamaazaz/blob/main/assets/outlook_logo.png" alt="outlook logo" height = "40" width="43"> </a>&emsp;
 </p>
 
 <br>
