@@ -2,7 +2,9 @@
 <h3 align="center">Business intelligence Engineer Intern & BI and Analytics Student</h3>
 
 
-- 🌱 I’m pursuing B.Tech in **Computer Science and Engineer**
+- 🎓 I am a third-year engineering student specializing in Business Intelligence and Analytics at <img src="https://media2.giphy.com/media/H6ilizZ1OiCYeFajpA/giphy.gif" width="40px" height="50px"> and I will be graduating this year! :confetti_ball:
+
+- :office: I am currently a BI Engineer intern at <img src="https://media2.giphy.com/media/H6ilizZ1OiCYeFajpA/giphy.gif" width="40px" height="50px"> as part of my degree program
 
 - 📫 How to reach me **aryanmahabhoi@gmail.com**
 
