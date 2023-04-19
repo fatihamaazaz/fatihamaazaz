@@ -44,14 +44,11 @@ I am well experienced working with these tools:
 <h2 align="center">What I do:</h2>
  <p>Data Visualizations and Data Storytelling with Power BI, Google Data Studio and Tableau</p> 
 					   <p>Data preparation, Data cleaning and Data manipulation</p> 
-					<p>Data Mining and Querying with MySQL and Microsoft SQL Server</p> 
-					   <p>BI support and  insight generation that proves valuable to business stakeholders</p>
-					    <p>Qualitative and Quantitative Analysis, Market Analysis via Competitor Comperative Tests, Product Analysis</p>
-						<p>Data Analytics and Business Intelligence</p>
-						<p>Technical training, Design Thinking, Decision Support, Problem Solving, Research and Development </p>
-					        <p>Performance Metrics, KPI's and Benchmarking</p>
-					    <P>Zoho CRM, Zoho Analytics, Zoho Survey Administration, troubleshooting and maintainance</P>
-					<p>I am knowlegeable in Datawarehousing, ETL, DAX, SSAS, SSIS, SSRS, Customer lifetime value (CLV), Converstion rates</p>
+					<p>Data Mining and Querying</p> 
+					   <p>Data Analytics and Business Intelligence</p>
+					<p>Problem Solving, Research and Development </p>
+					   <p>Performance Metrics, KPI's and Benchmarking</p>
+					<p>I am knowlegeable in Datawarehousing, ETL, DAX, SSAS, SSIS, SSRS</p>
 
   <br>
   
