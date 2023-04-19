@@ -10,6 +10,8 @@
 
 - ⚡ Fun fact : Curiosity is in my nature ! :pig_nose:
 
+- 🛠️ I am ready to collaborate on any interesting project, whether in BI and data analytics or web development !
+
 
 <h2 align="center">Contact me:</h2>
 
