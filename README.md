@@ -2,9 +2,7 @@
 <h3 align="center">Business intelligence Engineer Intern & BI and Analytics Student</h3>
 
 
-- 🎓 I am a third-year engineering student specializing in Business Intelligence and Analytics at <img src="https://github.com/fatihamaazaz/fatihamaazaz/blob/main/assets/ensias.png" width="45px" height="35px"> and I will be graduating this year ! :confetti_ball:
-
-- :office: I am currently a BI Engineer intern at <img src="https://github.com/fatihamaazaz/fatihamaazaz/blob/main/assets/procheck_logo.png" width="55px" height="20px"> as part of my degree program
+- 🎓 I am a Business Intelligence Engineer from <img src="https://github.com/fatihamaazaz/fatihamaazaz/blob/main/assets/ensias.png" width="45px" height="35px">
 
 - :woman_teacher: I am currently learning AWS, Talend and Databricks and reinforcing my knowledge about BI and Data analytics
 
