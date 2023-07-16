@@ -1,5 +1,5 @@
 <h1 align="center">Hello <img src="https://media2.giphy.com/media/H6ilizZ1OiCYeFajpA/giphy.gif" width="40px" height="50px">, I'm Fatiha MAAZAZ</h1>
-<h3 align="center">Business intelligence Engineer Intern & BI and Analytics Student</h3>
+<h3 align="center">Business intelligence Engineer</h3>
 
 
 - 🎓 I am a Business Intelligence Engineer from <img src="https://github.com/fatihamaazaz/fatihamaazaz/blob/main/assets/ensias.png" width="45px" height="35px">
